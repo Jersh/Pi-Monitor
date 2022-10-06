@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>org.cockpit_project.Pi-Monitor</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Pi Monitor</name>
+  <summary>Monitoring for Pi's</summary>
+  <description>
+    <p>
+      Monitoring page for key aspects of field Pi's
+    </p>
+  </description>
+  <extends>org.cockpit_project.cockpit</extends>
+  <launchable type="cockpit-manifest">Pi-Monitor</launchable>
+  <url type="homepage">https://github.com/Jersh/Pi-Monitor</url>
+  <url type="bugtracker">https://github.com/Jersh/Pi-Monitor</url>
+  <update_contact>joshua.gilbert@nissan-nmuk.co.uk</update_contact>
+</component>
